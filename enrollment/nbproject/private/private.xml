@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/generatereport.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/index.html</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/enroll_inputuserinfo.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/enroll_confirm.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/src/java/enrollment/enrollment.java</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/enroll_addtocart.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/report.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/src/java/enrollment/report.java</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/resetdrop.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/addtodrop.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/drop.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/loadcoursedata.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/del_course.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/load_courses.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/mod_course.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/mod_student.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/enroll_resetcart.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/src/java/enrollment/enroll.java</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/submitdrop.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/del_student.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/studentmaintenance.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/coursemaintenance.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/src/java/enrollment/degree.java</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/enroll_loaduser.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/src/java/enrollment/drop.java</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/enroll_selectcourses.jsp</file>
+            <file>file:/home/ccslearner/NetBeansProjects/CCINFOM-DBApp/enrollment/web/loadstudentdata.jsp</file>
+        </group>
+    </open-files>
+</project-private>
